@@ -1,4 +1,4 @@
-PyYAML
-schedule
 discord-webhook
-dotenv
+python-dotenv
+requests
+schedule
