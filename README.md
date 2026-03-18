@@ -3,7 +3,8 @@
 1. Make a .env file with your Discord webhook url in it
 2. Run bot.py
 
-To validate the card images are correct, run card_validator.py
+## Validate Images
+To validate the card images urls are correct, run image_validator.py
 
 ## Credits
 ### Card Images
