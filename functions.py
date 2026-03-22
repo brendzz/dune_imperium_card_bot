@@ -75,7 +75,7 @@ def send_card(card):
     embed = DiscordEmbed(
         title=card["name"],
         description=description,
-        color=0x3498db
+        color=0xbaa684
     )
 
     embed.add_embed_field(name="Card Name", value=card["name"], inline=False)
